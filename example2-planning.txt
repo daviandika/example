@@ -6,3 +6,7 @@ Planning about programmimg
 2. Fundamental of programming
 3. learning html,css,javascript
 4. learning about data science
+5. learning skill for AI
+6. C++
+
+
