@@ -8,5 +8,6 @@ Planning about programmimg
 4. learning about data science
 5. learning skill for AI
 6. C++
+7. Java
 
 
