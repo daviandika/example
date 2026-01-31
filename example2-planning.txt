@@ -3,5 +3,6 @@ Planning about programmimg
 1. learning python
   - data type
   - structure
-2. learning html,css,javascript
-3. learning about data science
+2. Fundamental of programming
+3. learning html,css,javascript
+4. learning about data science
